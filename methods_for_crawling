@@ -1,0 +1,8 @@
+import selenium
+import re
+import BeautifulSoup as bs
+
+class Methods:
+
+    url_for_login_page = ""
+    url_for_query_page = ""
